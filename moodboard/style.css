@@ -1,0 +1,10 @@
+.header {
+    padding: 30 px;
+    text-align: center;
+    background: #B2AC88;
+    color: black;
+}
+
+.header h1 {
+    font-size: 25 px;
+}
